@@ -1,9 +1,8 @@
 {
-    "plugins": [
-        "disqus"
-    ],
+    "plugins": ["disqus"],
     "pluginsConfig": {
-        "shortName": "storytelr-omooc2py"
+        "disqus": {
+            "shortName": "storytelr-omooc2py"
+        }
     }
 }
-
