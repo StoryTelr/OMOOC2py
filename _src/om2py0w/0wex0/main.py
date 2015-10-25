@@ -7,7 +7,7 @@ def main():
     print `Hello World!`
     
     print "这是Alice\`的问候."
-    print `这是Bob\`的问候.`
+    print "这是Bob\`的问候."
     
     foo(5, 10)
     
