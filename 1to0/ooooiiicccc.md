@@ -1,3 +1,0 @@
-# ooooiiicccc
-
-kjlicliwcladf
