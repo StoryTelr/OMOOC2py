@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [负基础填坑之路](nothingto0/Readme.md)
-   * [ooii](nothingto0/mind.md)
+   * [心术](nothingto0/mind.md)
    * [ooooiiicccc](1to0/ooooiiicccc.md)
 * [教学反转](0MOOC/README.md)
 * [基础旋进](1sTry/README.md)
