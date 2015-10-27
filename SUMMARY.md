@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [负基础填坑之路](-1to0/Readme.md)
    * [心术](-1to0/minds.md)
-   * [基本概念理清](-1to0/concepts.md)
+   * [基本概念理清](-1to0/conceptsmd.md)
    * [的](-1to0/de.md)
    * [诶今天](To0/today.md)
 * [教学反转](0MOOC/README.md)
