@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [负基础填坑之路](nothingto0/Readme.md)
 * [心术](0MOOC/mind.md)
 * [命令行](nothingto0/CLI.md)
 * [基本概念理清](0MOOC/concepts.md)
