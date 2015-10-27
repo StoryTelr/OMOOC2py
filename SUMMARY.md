@@ -4,7 +4,7 @@
 * [教学反转](0MOOC/README.md)
    * [心术](0MOOC/mind.md)
    * [命令行](0MOOC/CLI.md)
-   * CLI
+   * [CLI](0MOOC/cli.md)
    * [基本概念理清](0MOOC/concepts.md)
 * [基础旋进](1sTry/README.md)
 * [迭代作品](2nDev/README.md)
