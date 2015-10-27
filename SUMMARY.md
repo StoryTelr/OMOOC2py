@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [负基础填坑之路](-1to0/Readme.md)
+* [负基础填坑之路](nothingto0/Readme.md)
    * [ooii](-1to0/ooii.md)
    * [ooooiiicccc](1to0/ooooiiicccc.md)
 * [教学反转](0MOOC/README.md)
