@@ -8,7 +8,7 @@
    * [诶今天](To0/today.md)
 * [教学反转](0MOOC/README.md)
    * [up1st](0MOOC/up1st.md)
-   * [down1st](0MOOC/down1st)
+   * [down1st](0MOOC/down1st.md)
 * [基础旋进](1sTry/README.md)
 * [迭代作品](2nDev/README.md)
 * [人生首秀](3rDemo/README.md)
