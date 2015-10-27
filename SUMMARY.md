@@ -4,7 +4,6 @@
 * [负基础填坑之路](-1to0/Readme.md)
    * [心术](-1to0/minds.md)
    * [基本概念理清](-1to0/conceptsmd.md)
-   * [诶今天](To0/today.md)
 * [教学反转](0MOOC/README.md)
    * [up1st](0MOOC/up1st.md)
    * [down1st](0MOOC/down1st.md)
