@@ -3,7 +3,7 @@
 * [Introduction](README.md)
    * [缘起](1.1.md)
    * [努力的过程](1.2.md)
-   * 1003
+   * [1003](1sTry/1003.md)
 * [教学反转](0MOOC/README.md)
 * [基础旋进](1sTry/README.md)
 * [迭代作品](2nDev/README.md)
