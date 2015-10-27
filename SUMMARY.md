@@ -2,9 +2,9 @@
 
 * [Introduction](README.md)
 * [负基础填坑之路](nothingto0/Readme.md)
-   * [基本概念理清](0MOOC/concepts.md)
    * [命令行](nothingto0/CLI.md)
 * [心术](nothingto0/mind.md)
+* [基本概念理清](0MOOC/concepts.md)
 * [教学反转](0MOOC/README.md)
 * [基础旋进](1sTry/README.md)
 * [迭代作品](2nDev/README.md)
