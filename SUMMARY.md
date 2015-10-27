@@ -5,7 +5,6 @@
    * [心术](-1to0/minds.md)
    * [基本概念理清](-1to0/conceptsmd.md)
 * [教学反转](0MOOC/README.md)
-   * [down1st](0MOOC/down1st.md)
 * [基础旋进](1sTry/README.md)
 * [迭代作品](2nDev/README.md)
 * [人生首秀](3rDemo/README.md)
