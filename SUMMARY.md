@@ -10,7 +10,7 @@
    * [环境搭建](0MOOC/env.md)
    * [Markdown](0MOOC/markdown.md)
    * [课程笔记](0MOOC/class.md)
-   * 缩写规约
+   * [缩写规约](0MOOC/shortname.md)
 * [基础旋进](1sTry/README.md)
 * [迭代作品](2nDev/README.md)
 * [人生首秀](3rDemo/README.md)
