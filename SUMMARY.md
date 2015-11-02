@@ -14,5 +14,5 @@
 * [素材 (draft)](draft/README.md)
    * [教程该怎么写](draft/how2tutorial.md)
 * [有关](ABOUT.md)
-* 笨方法
+* [笨方法](0MOOC/笨方法.md)
 
