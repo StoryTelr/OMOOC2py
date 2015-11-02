@@ -5,7 +5,7 @@
    * [心术](0MOOC/mind.md)
    * [命令行](0MOOC/CLI.md)
    * [命令行练习](0MOOC/CLI-ex.md)
-   * [基本概念理清](0MOOC/concepts.md)
+   * [基本概念理清](0MOOC/笨方法.md)
 * 刷笨方法
 * [基础旋进](1sTry/README.md)
 * [迭代作品](2nDev/README.md)
