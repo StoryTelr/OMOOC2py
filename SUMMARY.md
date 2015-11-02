@@ -6,7 +6,6 @@
    * [命令行](0MOOC/CLI.md)
    * [命令行练习](0MOOC/CLI-ex.md)
    * [基本概念理清](0MOOC/笨方法.md)
-* 刷笨方法
 * [基础旋进](1sTry/README.md)
 * [迭代作品](2nDev/README.md)
 * [人生首秀](3rDemo/README.md)
@@ -14,5 +13,4 @@
 * [素材 (draft)](draft/README.md)
    * [教程该怎么写](draft/how2tutorial.md)
 * [有关](ABOUT.md)
-* [笨方法](0MOOC/笨方法.md)
 
