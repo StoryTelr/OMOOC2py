@@ -7,7 +7,6 @@
    * [命令行练习](0MOOC/CLI-ex.md)
    * 刷笨方法
    * [基本概念理清](0MOOC/concepts.md)
-       * 刷笨方法
 * [基础旋进](1sTry/README.md)
 * [迭代作品](2nDev/README.md)
 * [人生首秀](3rDemo/README.md)
