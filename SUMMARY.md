@@ -11,7 +11,7 @@
    * [Markdown](0MOOC/markdown.md)
    * [课程笔记](0MOOC/class.md)
    * [缩写规约](0MOOC/shortname.md)
-   * 菜单
+   * [菜单](0MOOC/funny.md)
 * [基础旋进](1sTry/README.md)
 * [迭代作品](2nDev/README.md)
 * [人生首秀](3rDemo/README.md)
