@@ -1,4 +1,16 @@
 # -*- coding: utf-8 -*-
-print 'I will now count my chickens'
-# 开始数🐔
-print 'Hens', 25+30/6
+
+#from sys import argv
+
+
+in_txt = open('diary.txt', 'a')
+text = raw_input('What do you want to write today?'
+	'\n''Hit RETURN if you want to review your diary.')
+	
+if text == '':
+	print 'Here`s your diary:'
+	in_txt = open('diary.txt')
+	print in_txt.read()
+else:
+	in_txt.write('\n' + text)
+	in_txt.close()
